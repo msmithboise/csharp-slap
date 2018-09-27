@@ -1,0 +1,11 @@
+/Users/msmith/source/codeworks/csharp-slap/bin/Debug/netcoreapp2.1/csharp-slap.deps.json
+/Users/msmith/source/codeworks/csharp-slap/bin/Debug/netcoreapp2.1/csharp-slap.runtimeconfig.json
+/Users/msmith/source/codeworks/csharp-slap/bin/Debug/netcoreapp2.1/csharp-slap.runtimeconfig.dev.json
+/Users/msmith/source/codeworks/csharp-slap/bin/Debug/netcoreapp2.1/csharp-slap.dll
+/Users/msmith/source/codeworks/csharp-slap/bin/Debug/netcoreapp2.1/csharp-slap.pdb
+/Users/msmith/source/codeworks/csharp-slap/obj/Debug/netcoreapp2.1/csharp-slap.csprojAssemblyReference.cache
+/Users/msmith/source/codeworks/csharp-slap/obj/Debug/netcoreapp2.1/csharp-slap.csproj.CoreCompileInputs.cache
+/Users/msmith/source/codeworks/csharp-slap/obj/Debug/netcoreapp2.1/csharp-slap.AssemblyInfoInputs.cache
+/Users/msmith/source/codeworks/csharp-slap/obj/Debug/netcoreapp2.1/csharp-slap.AssemblyInfo.cs
+/Users/msmith/source/codeworks/csharp-slap/obj/Debug/netcoreapp2.1/csharp-slap.dll
+/Users/msmith/source/codeworks/csharp-slap/obj/Debug/netcoreapp2.1/csharp-slap.pdb
